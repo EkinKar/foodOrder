@@ -1,6 +1,7 @@
 # App Overview
 Food ordering demo web app created using react. \
-Submitted orders are stored in a Firebase database.
+Submitted orders are stored in a Firebase database. \
+Check it out from the following link: https://ekinkar.github.io/foodOrder/
 
 # Getting Started with Create React App
 
