@@ -1,6 +1,10 @@
+# App Overview
+Food ordering demo web app created using react. \
+Submitted orders are stored in a Firebase database.
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \
 
 ## Available Scripts
 
