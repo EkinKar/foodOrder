@@ -3,6 +3,17 @@ Food ordering demo web app created using react. \
 Submitted orders are stored in a Firebase database. \
 Check it out from the following link: https://ekocooks.ekinkar.com/
 
+## Screenshots
+![Screenshot_14](https://github.com/EkinKar/foodOrder/assets/56177544/2b08e72a-039c-47b9-b692-d46408a6c62f)
+***
+![Screenshot_15](https://github.com/EkinKar/foodOrder/assets/56177544/f8fae724-319f-4d52-9a76-60ee1b77f09e)
+***
+![Screenshot_16](https://github.com/EkinKar/foodOrder/assets/56177544/02ee0188-b3f1-43bf-a85f-4b3be7392f7b)
+***
+![Screenshot_17](https://github.com/EkinKar/foodOrder/assets/56177544/238c6e8e-12c7-4a49-9bd8-418229e2650f)
+
+***
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \
